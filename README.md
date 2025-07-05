@@ -8,6 +8,16 @@ This repository contains the source code and final report for my CG1111A project
 
 ---
 
+## Platforms & Tools
+
+Through this project, I learned to work with:
+- The **mBot platform** as the robot base, with modular hardware for embedded systems prototyping.
+- The **Arduino IDE** for programming the robot’s microcontroller.
+- The **C++ programming language** for implementing sensor logic, control algorithms, and movement behaviours.
+- Basic electronics tools (e.g., breadboards, resistors, wiring) and circuit design for integrating custom IR and LDR sensors with the robot.
+
+---
+
 ## My Contributions
 
 For this project, I was specifically in charge of:
