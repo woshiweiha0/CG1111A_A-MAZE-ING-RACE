@@ -2,7 +2,7 @@
 
 Embedded Systems Project: Autonomous Maze-Solving Robot
 
-## About
+## Overview
 
 This repository contains the source code and final report for my CG1111A project, “A-MAZE-ING RACE”. The goal of this project was to design and build an autonomous maze-solving robot using the mBot platform, various sensors, and custom-designed circuits.
 
